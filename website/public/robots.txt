@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://quickred-differentiator.example.com/sitemap.xml
+Sitemap: https://differentiation-algorithms-research.vercel.app//sitemap.xml

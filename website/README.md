@@ -21,7 +21,7 @@ npm run build
 
 ## Deployment note
 
-The current robots and sitemap files still use the placeholder domain `https://quickred-differentiator.example.com/`.
+The current robots and sitemap files still use the placeholder domain `https://differentiation-algorithms-research.vercel.app//`.
 Replace that value in:
 
 - `public/robots.txt`
